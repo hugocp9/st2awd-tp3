@@ -7,10 +7,10 @@
 <script>
 export default {
 
-  name : 'HomePage',
+  name : 'homepage',
   data : function () {
     return {
-      msg : 'this is the home page'
+      msg : 'This is the home page'
     }
   },
   components : {
